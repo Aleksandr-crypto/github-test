@@ -2,4 +2,4 @@ const test = (message) => {
    console.log(message);
 }
 
-test("test);
+test("test");
